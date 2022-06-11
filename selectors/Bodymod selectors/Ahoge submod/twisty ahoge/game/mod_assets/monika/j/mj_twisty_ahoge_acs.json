@@ -1,0 +1,28 @@
+{
+    "__author": "Mayjay",
+    "version": 3,
+    "type": 0,
+    "name": "mj_ahoge_twisty",
+    "img_sit": "mj_ahoge_twisty",
+    "pose_map": {
+        "default": "0",
+        "l_default": "5"
+    },
+    "rec_layer": 1,
+    "priority": 7,
+    "acs_type": "ahoge_acs",
+    "stay_on_start": true,
+    "select_info": {
+        "display_name": "Twisty Ahoge",
+        "thumb": "thumb_mj_ahoge_twisty",
+        "group": "ahoge_acs",
+        "select_dlg": [
+            "Cute, right?"
+        ]
+    },
+    "dlg_desc": "ahoge style",
+    "dlg_plural": false,
+    "giftname": "mjtwistyahoge"
+}
+
+

@@ -6,7 +6,7 @@ init -99 python in mas_selspr:
     PROMPT_MAP["pin_acs"] = {
         "_ev": "mj_pin_acs_select",
         "_min-items": 1,
-        "change": "Can you wear on a different pin?",
+        "change": "Can you wear a different pin?",
         "wear": "Can you wear a pin?",
     }
 

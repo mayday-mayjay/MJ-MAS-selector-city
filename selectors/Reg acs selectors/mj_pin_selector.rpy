@@ -36,7 +36,7 @@ label mj_pin_acs_select:
 
     m 1eua "Sure [player]!"
 
-    call mas_selector_sidebar_select_acs(use_acs, mailbox=mailbox, select_map=sel_map, add_remover=True) #add_remover is for a 'None' option, basically
+    call mas_selector_sidebar_select_acs(use_acs, [mas_quipExp('6eua')], mailbox=mailbox, select_map=sel_map, add_remover=True) #add_remover is for a 'None' option, basically
 
     if not _return:
         m 1eka "Oh, alright."

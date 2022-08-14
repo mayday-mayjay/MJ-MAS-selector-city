@@ -33,7 +33,7 @@ This is a collection of selector submods made or currently maintained by u/mayda
 ## 👑 ⭑ How to install
   * download from the release tab (not straight from repo!!) <br>
   * open the zip in a prgrogram that allows it (ex; 7zip or winRAR) <br>
-  * move the 'MJ-MAS-selector-city-[release number]' folder to DDLC/MAS -> game -> submods (THE UPDATER WILL NOT WORK IF MOVED ELSEWHERE) <br>
+  * move the game folder in 'MJ-MAS-selector-city-[release number]' folder to DDLC/MAS and merge it (THE UPDATER WILL NOT WORK IF MOVED ELSEWHERE) <br>
   * if you do not have a submods folder, make one!
   * open MAS and enjoy!
   

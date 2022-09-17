@@ -17,7 +17,7 @@ init 5 python:
         Event(
             persistent.event_database,
             eventlabel="mj_ring_acs_select",
-            category=["desk"],
+            category=["appearance"],
             prompt=store.mas_selspr.get_prompt("sb_ring_acs", "change"),
             pool=True,
             unlocked=False,

@@ -17,7 +17,7 @@ This is a collection of selector submods made or currently maintained by u/mayda
 ✦ Split acs selectors<br>
 <details><summary>✨ Click here for a full list of selectors:</summary> 
   * mask selector <br>
-  * table acs selector <br>
+  * table acs selector (left/right, reg)<br>
   * ahoge selector <br>
   * earpiece selector <br>
   * facepaint selector <br>
@@ -28,6 +28,8 @@ This is a collection of selector submods made or currently maintained by u/mayda
   * headpiece selector <br>
   * glove selector <br>
   * table cushion selector <br>
+  * backpiece selector <br>
+  * glasses selector <br>
 </details>
 
 ## 👑 ⭑ How to install

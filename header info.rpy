@@ -14,7 +14,7 @@ init -990 python in mas_submod_utils:
 init -989 python:
     if store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin"):
         store.sup_utils.SubmodUpdater(
-            submod="MayJay's Selector City",
+            submod="Selector City",
             user_name="mayday-mayjay",
             repository_name="MJ-MAS-selector-city",
             submod_dir="/Submods/Selector City",
